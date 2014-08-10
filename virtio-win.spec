@@ -43,5 +43,7 @@ rm -rf %{buildroot}
 /usr/share/virtio-win
 
 %changelog
+* Sun 09 Aug 2014 Neova Health <office@neovahealth.co.uk> - 0.1-81.1
+- Bump to 1.81
 * Fri May 25 2012 Harvard University FAS Research Computing <rchelp@fas.harvard.edu> - 0.1-22.1
 - Initial package
